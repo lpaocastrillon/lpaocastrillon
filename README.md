@@ -5,7 +5,7 @@ Hi 👋 My name is Paola Castrillón
 Web Developer
 -------------
 
-Front-end developer with 5 years of experience, passionate about creating fun and engaging projects. Always eager to learn and improve, she enjoys reading and staying updated with the latest trends in the industry.
+Front-end developer with 5 years of experience, passionate about creating fun and engaging projects. Always eager to learn and improve, enjoys reading and staying updated with the latest trends in the industry.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [lpaocastrillon@gmail.com](mailto:lpaocastrillon@gmail.com)
